@@ -1,6 +1,5 @@
 # LW3Punks NFT Collections.
 
-To see NFTs : 
 <div>
 <b>See Collections: </b>
 <a href="https://testnets.opensea.io/collection/lw3punks-55" target="_blank" rel="noopener"
