@@ -1,6 +1,7 @@
-# Sample Hardhat Project
+# LW3Punks NFT Collections
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is a NFT contract which allows users to mint upto maximum 10 tokens and for 
+this project we setup IPFS metadata for NFT also.
 
 Try running some of the following tasks:
 
